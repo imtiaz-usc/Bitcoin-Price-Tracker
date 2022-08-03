@@ -1,4 +1,4 @@
-# Crypto Tracker Project - README
+# Bitcoin Price Tracker Project - README
 *** 
 ![](https://bitcoin.org/img/icons/logotop.svg?1637078881)  
 
